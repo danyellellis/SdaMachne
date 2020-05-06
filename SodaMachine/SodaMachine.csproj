@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cans.cs" />
+    <Compile Include="Coins.cs" />
+    <Compile Include="Dime.cs" />
+    <Compile Include="Grape.cs" />
+    <Compile Include="Lemon.cs" />
+    <Compile Include="Nickel.cs" />
+    <Compile Include="Orange.cs" />
+    <Compile Include="Penny.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quarter.cs" />
+    <Compile Include="SodaMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
